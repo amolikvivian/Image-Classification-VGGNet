@@ -1,2 +1,2 @@
 # Image-Classification-VGGNet
-Deep Learning based image classification using VGGNet Model pretrained on ImageNet dataset
+Deep Learning based image classification using Keras and VGG Model
